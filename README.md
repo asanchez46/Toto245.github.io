@@ -64,6 +64,8 @@ Figure 1. CoppeliaSim Model
 ![image](https://user-images.githubusercontent.com/102193371/168404128-bc4e17e6-5d81-4cd8-b366-b6ef2383fd47.png)
 The modelling of the Furuta Pendulum is implemented with CoppeliaSim, which has the ability to compute dynamic properties needed in operation of the pendulum arm.
 
+![Equations_of_motion_vert_pen_arm](https://user-images.githubusercontent.com/104525569/169235459-64782abb-011e-4e74-ba26-4ae487a004a0.PNG)
+
 ### Simulink
 Control Structure for Futura Pendulum
 
