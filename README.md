@@ -1,4 +1,4 @@
-![chicostateengineering](https://user-images.githubusercontent.com/104525569/165656325-126c0024-a1b2-44f3-8fbc-4cbb8f84246b.png)
+![](images/ChicoEngineering.png)
 # MECH482-Group7-Project
 
  Spring 2022 
