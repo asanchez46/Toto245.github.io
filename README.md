@@ -16,9 +16,29 @@
 + [6 - References](#References)
 
 ### Introduction
-The Furuta Pendulum is a device that balances a free moving arm affected by gravity by rotating horizontally. The goal of this project is to balance the arm vertically with its end pointing away from the base. 
+
+#### Project
+The Furuta Pendulum (rotational inverted pendulum) is a device that balances a free rotating pendulum in the vertical plane by a drive arm which rotates in the horizontal plane. The goal of this project is to create a Furuta Pendulum simulation by creating a control algorithm through matlab and modeling on Coppelia Sim. The Pendulum beam will be balanced upright perpendicular to the base of the ground by a control system. the project will be virtual and not an actual product will be made. 
+
+![pendulumAssembly](https://user-images.githubusercontent.com/104525569/169219535-cf145408-3881-43fe-81cf-37f5a952e875.png)
+
+#### Deliverables 
+- The team is expected to present their project (~ 5mins) and build a web page which contains all deliverables in GitHub.
+- The mathematical model of the system must be delivered -preferably in Python or MATLAB.
+- The control system should be provided preferable in Simulink, State-flow, or with a high-level
+  programming language (e.g., C, C++, or Python). However, the team must show that the control algorithm will 
+  give the design requirements for the target system. In other words, one cannot
+  build the system solely hands-on approach similar to the videos below:
+  o Pan and Tilt Mechanism
+- The system will have a simulation with the control system and mathematical model by
+  connecting Coppelia Sim to MATLAB, Simulink, or whatever the programming landscape is used.
+- If the system contains hardware, the design of hardware should consist the necessary
+  architectural explanations such as hardware and software relationships.
+
+
 ### Modeling
 Figure 1. System Model
+
 ![image](https://user-images.githubusercontent.com/102193371/168450542-038c65ba-0f4f-4816-a9e6-8a8f63c60d8f.png)
 
 
