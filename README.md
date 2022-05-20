@@ -20,7 +20,7 @@
 #### Project
 The Furuta Pendulum (rotational inverted pendulum) is a device that balances a free rotating pendulum in the vertical plane by a drive arm which rotates in the horizontal plane. The goal of this project is to create a Furuta Pendulum simulation by creating a control algorithm through matlab and modeling on Coppelia Sim. The Pendulum beam will be balanced upright perpendicular to the base of the ground by a control system. the project will be virtual and not an actual product will be made. 
 
-![pendulumAssembly](https://user-images.githubusercontent.com/104525569/169219535-cf145408-3881-43fe-81cf-37f5a952e875.png)
+![](images/PendulumAssembly.png)
 
 #### Deliverables 
 - The team is expected to present their project (~ 5mins) and build a web page which contains all deliverables in GitHub.
@@ -39,7 +39,7 @@ The Furuta Pendulum (rotational inverted pendulum) is a device that balances a f
 ### Modeling
 Figure 1. System Model
 
-![image](https://user-images.githubusercontent.com/102193371/168450542-038c65ba-0f4f-4816-a9e6-8a8f63c60d8f.png)
+![](images/FBD.png)
 
 
 The futura pendulum system model is shown above. The moving arm utilizes the SRV02, which is the Quanser QUBE-Servo 2. This is how the arm actuates.
@@ -61,20 +61,11 @@ Jp = Moment of Inertia of the Center of Mass
 
 Figure 1. CoppeliaSim Model
 
-![image](https://user-images.githubusercontent.com/102193371/168404128-bc4e17e6-5d81-4cd8-b366-b6ef2383fd47.png)
+![](images/CoppeliaSimModel.png)
 The modelling of the Furuta Pendulum is implemented with CoppeliaSim, which has the ability to compute dynamic properties needed in operation of the pendulum arm.
 
-![Equations_of_motion_vert_pen_arm](https://user-images.githubusercontent.com/104525569/169235459-64782abb-011e-4e74-ba26-4ae487a004a0.PNG)
+![](images/EquationsOfMotionVertPenArm.png)
 
-### Simulink
-Control Structure for Futura Pendulum
-
-![image](https://user-images.githubusercontent.com/102193371/168450517-1aec2f64-ef73-429a-994c-ab7c881583dd.png)
-
-
-Simulink Model for Furuta Pendulum
-
-![image](https://user-images.githubusercontent.com/102193371/168450300-43808ba8-1799-4e23-ae27-381af375f472.png)
 
 ### Controller Design and Simulation 
 
