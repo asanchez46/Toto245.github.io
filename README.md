@@ -40,10 +40,10 @@ The Furuta Pendulum (rotational inverted pendulum) is a device that balances a f
 ### Modeling
 
 #### Logical Viewpoint
-![](images/LogicalViewpoint.png)
+![](images/LogicalViewpoint.PNG)
 
 #### Operational Viewpoint
-![](images/OperationalViewpoint.png)
+![](images/OperationalViewpoint.PNG)
 
 ### Preliminary Calculations
 
