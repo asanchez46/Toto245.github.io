@@ -40,9 +40,12 @@ The Furuta Pendulum (rotational inverted pendulum) is a device that balances a f
 ### Modeling
 
 #### Logical Viewpoint
+"describes the logical structure and the distribution of responsibilities functionality of a system by means of a network of interacting logical components that are responsible for a set of functions." Operator will start the process, this will send an input to the main logic controller, causing a signal to be sent to the driver that’s turning on the motor and making it spin. Feedback is then received on the position of the arm and corrections are made by the logic controller.
+
 ![](images/LogicalViewpoint.PNG)
 
 #### Operational Viewpoint
+Visiual representation of our ststem and description of how the the physical components of our sysrem interacts with each other. our pendulum is controled by one gear arm which rotates on the horizontal plan to suppor t hte free rotating pedulum on the vertical plan. everything is supported by the base chassis.
 ![](images/OperationalViewpoint.PNG)
 
 ### Preliminary Calculations
