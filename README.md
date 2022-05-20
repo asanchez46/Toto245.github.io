@@ -39,7 +39,7 @@ The Furuta Pendulum (rotational inverted pendulum) is a device that balances a f
 ### Modeling
 Figure 1. System Model
 
-![](images/FBD.png)
+![](images/FBD.PNG)
 
 
 The futura pendulum system model is shown above. The moving arm utilizes the SRV02, which is the Quanser QUBE-Servo 2. This is how the arm actuates.
@@ -61,10 +61,10 @@ Jp = Moment of Inertia of the Center of Mass
 
 Figure 1. CoppeliaSim Model
 
-![](images/CoppeliaSimModel.png)
+![](images/CoppeliaSimModel.PNG)
 The modelling of the Furuta Pendulum is implemented with CoppeliaSim, which has the ability to compute dynamic properties needed in operation of the pendulum arm.
 
-![](images/EquationsOfMotionVertPenArm.png)
+![](images/EquationsOfMotionVertPenArm.PNG)
 
 
 ### Controller Design and Simulation 
