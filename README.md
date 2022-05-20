@@ -40,16 +40,23 @@ The Furuta Pendulum (rotational inverted pendulum) is a device that balances a f
 ### Modeling
 
 #### Logical Viewpoint
-![](images/LogicalViewpoint.PNG)
+<p align="center">
+  <img width="800" height="800" src="images/LogicalViewpoint.PNG">
+</p>
 
 #### Operational Viewpoint
-![](images/OperationalViewpoint.PNG)
+<p align="center">
+  <img width="800" height="800" src="images/OperationalViewpoint.PNG">
+</p>
+
 
 ### Preliminary Calculations
 
 Figure 1. System Model
 
-![](images/FBD.PNG)
+<p align="center">
+  <img width="480" height="900" src="images/FBD.PNG">
+</p>
 
 The futura pendulum system model is shown above. The moving arm utilizes the SRV02, which is the Quanser QUBE-Servo 2. This is how the arm actuates.
 
