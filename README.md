@@ -66,9 +66,6 @@ Variables of Figure 1.
 - Lp/2 = Center of Mass
 - Jp = Moment of Inertia of the Center of Mass
 
-![](images/EquationsOfMotionVertPenArm.PNG)
-
-
 ### Controller Design and Simulation 
 
 Figure 1. CoppeliaSim Model
