@@ -88,4 +88,4 @@ The modelling of the Furuta Pendulum is implemented with CoppeliaSim, which has 
 2) https://en.wikipedia.org/wiki/Furuta_pendulum
 3) Hernández-Guzmán Victor Manuel., & Silva-Ortigoza Ramón. (2019). Automatic control with experiments. Springer International Publishing.
 
-link: https://github.com/Toto245/Toto245.github.io/tree/main/PDFs
+
