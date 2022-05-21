@@ -76,6 +76,7 @@ Link: https://github.com/Toto245/Toto245.github.io/tree/main/PrelimCalc
 #### MATLAB Code
 Link https://github.com/Toto245/Toto245.github.io/tree/main/MATLABCode
 
+![](images/Roots.PNG)
 
 #### CoppeliaSim 
 Figure 1. CoppeliaSim Model
