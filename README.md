@@ -68,6 +68,8 @@ Variables of Figure 1.
 - Lp/2 = Center of Mass
 - Jp = Moment of Inertia of the Center of Mass
 
+Link: https://github.com/Toto245/Toto245.github.io/tree/main/PrelimCalc
+
 ----------------------------------------------------------------------------------------------------
 ### Controller Design and Simulation 
 
