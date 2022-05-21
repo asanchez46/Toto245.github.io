@@ -80,7 +80,9 @@ The modelling of the Furuta Pendulum is implemented with CoppeliaSim, which has 
 
 ----------------------------------------------------------------------------------------------------
 ### Appendix A
+
 ![](images/CapabilitiesDatabase.PNG)
+
 ![](images/TaskPlanner.PNG)
 ----------------------------------------------------------------------------------------------------
 ### References 
