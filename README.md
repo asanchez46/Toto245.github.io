@@ -1,5 +1,6 @@
 ![](images/ChicoEngineering.png)
 # MECA482-Group7-Project
+[https://github.com/Toto245/Toto245.github.io] to view github.io 
 
  - Spring 2022 
  - Control System Design of Furuta Pendulum  
@@ -81,9 +82,15 @@ The modelling of the Furuta Pendulum is implemented with CoppeliaSim, which has 
 ----------------------------------------------------------------------------------------------------
 ### Appendix A
 
+#### Capabilities Database
 ![](images/CapabilitiesDatabase.PNG)
 
+#### Task Planner 
 ![](images/TaskPlanner.PNG)
+
+#### Images file 
+link: https://github.com/Toto245/Toto245.github.io/tree/main/images
+
 ----------------------------------------------------------------------------------------------------
 ### References 
 1) https://www.youtube.com/watch?v=o5g-lUuFgpg 
