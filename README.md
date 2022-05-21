@@ -1,5 +1,5 @@
 ![](images/ChicoEngineering.png)
-# MECH482-Group7-Project
+# MECA482-Group7-Project
 
  - Spring 2022 
  - Control System Design of Furuta Pendulum  
