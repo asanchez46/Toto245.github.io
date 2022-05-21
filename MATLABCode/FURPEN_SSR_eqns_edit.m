@@ -10,5 +10,6 @@ B = [ 0; EqB1; 0; EqB2;];
 C = [ 1 0 1 0];
 D = [0];
 
+
 % Load into state-space system
 sys_FURPEN_ol = ss(A,B,C,D); % Open loop system model
