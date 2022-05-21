@@ -10,10 +10,10 @@
 + [2 - Modeling](#Modeling)
 + [3 - Preliminary Calculations](#Preliminary-Calculations)
 + [4 - Controller Design and Simulation](#Controller-Design-and-Simulation)
-+ [5 - Appendix A Simulation Code](#Appendix-A-Simulation-Code)
++ [5 - Conclusion](#Conclusion)
 + [6 - References](#References)
 
-
+------------------------------------------------------------------------------------------------------
 ### Introduction
 
 #### Project
@@ -36,7 +36,7 @@ The Furuta Pendulum (rotational inverted pendulum) is a device that balances a f
 - If the system contains hardware, the design of hardware should consist the necessary
   architectural explanations such as hardware and software relationships.
 
-
+----------------------------------------------------------------------------------------------------
 ### Modeling
 
 #### Logical Viewpoint
@@ -48,6 +48,7 @@ The Furuta Pendulum (rotational inverted pendulum) is a device that balances a f
 Visiual representation of our ststem and description of how the the physical components of our sysrem interacts with each other. our pendulum is controled by one gear arm which rotates on the horizontal plan to suppor t hte free rotating pedulum on the vertical plan. everything is supported by the base chassis.
 ![](images/OperationalViewpoint.PNG)
 
+----------------------------------------------------------------------------------------------------
 ### Preliminary Calculations
 
 Figure 1. System Model
@@ -66,6 +67,7 @@ Variables of Figure 1.
 - Lp/2 = Center of Mass
 - Jp = Moment of Inertia of the Center of Mass
 
+----------------------------------------------------------------------------------------------------
 ### Controller Design and Simulation 
 
 Figure 1. CoppeliaSim Model
@@ -73,8 +75,10 @@ Figure 1. CoppeliaSim Model
 ![](images/CoppeliaSimModel.PNG)
 The modelling of the Furuta Pendulum is implemented with CoppeliaSim, which has the ability to compute dynamic properties needed in operation of the pendulum arm.
 
-### Appendix A Simulation Code
+----------------------------------------------------------------------------------------------------
+### Conclusion
 
+----------------------------------------------------------------------------------------------------
 ### References 
 1) https://www.youtube.com/watch?v=o5g-lUuFgpg 
 2) https://en.wikipedia.org/wiki/Furuta_pendulum
